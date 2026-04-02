@@ -3,19 +3,27 @@ A high-performance, responsive corporate website built for Someshwar Enterprise 
 
 ## 🚀 Key Features
 
-- 📊 **Interactive Project Portfolio**: Categorized display of Residential and Commercial projects with status tags (e.g., Ongoing, Completed).
-- 🛤️ **Dynamic Routing**: Individual detail pages for every project (like SunSetu Sky and Sun Sierra) using React Router for a smooth SPA experience.
-- 🖼️ **Property Visuals**: High-fidelity image galleries and property amenity sections.
-- 📍 **Integrated Google Maps**: Real-time location visualization for site projects.
-- 📩 **Contact & Lead Gen**: A functional, responsive contact form with auto-fill capabilities and integrated company contact details.
-- 📱 **Modern UI/UX**: Built with a "Mobile-First" approach, featuring smooth hover effects and a professional color palette.
+📊 **Interactive Project Portfolio**: Categorized display of Residential and Commercial projects with status tags (e.g., Ongoing, Completed).
+
+🛤️ **Dynamic Routing**: Individual detail pages for every project (like SunSetu Sky and Sun Sierra) using React Router for a smooth SPA experience.
+
+🖼️ **Property Visuals**: High-fidelity image galleries and property amenity sections.
+
+📍 **Integrated Google Maps**: Real-time location visualization for site projects.
+
+📩 **Contact & Lead Gen**: A functional, responsive contact form with auto-fill capabilities and integrated company contact details.
+
+📱 **Modern UI/UX**: Built with a "Mobile-First" approach, featuring smooth hover effects and a professional color palette.
 
 ## 🛠️ Tech Stack
 
-- ⚛️ **Frontend**: React.js
-- 🎨 **Styling**: Tailwind CSS (for rapid, responsive UI development)
-- 🛤️ **Routing**: React Router DOM
-- 💅 **Icons**: Lucide React / FontAwesome
+⚛️ **Frontend**: React.js
+
+🎨 **Styling**: Tailwind CSS (for rapid, responsive UI development)
+
+🛤️ **Routing**: React Router DOM
+
+💅 **Icons**: Lucide React / FontAwesome
 
 ## 📸 Project Preview
 
