@@ -19,6 +19,13 @@ A high-performance, responsive corporate website built for Someshwar Enterprise 
 
 ## 📸 Project Preview
 
+<img width="1887" height="965" alt="Screenshot 2026-04-02 160028" src="https://github.com/user-attachments/assets/e1f6771b-89d8-4ae8-b58c-0e90b37a2770" />
+<img width="1889" height="969" alt="Screenshot 2026-04-02 160046" src="https://github.com/user-attachments/assets/e0cfd06b-a2a4-4417-acbe-2b88c6076484" />
+<img width="1884" height="858" alt="Screenshot 2026-04-02 160122" src="https://github.com/user-attachments/assets/cb776a40-57b5-4091-a94d-b825ce9ebe5e" />
+<img width="1888" height="868" alt="Screenshot 2026-04-02 160144" src="https://github.com/user-attachments/assets/f62aba7b-93ca-4ef2-beff-041ce4db2425" />
+<img width="1885" height="857" alt="Screenshot 2026-04-02 160200" src="https://github.com/user-attachments/assets/c3f3d9c5-59cc-49e1-bb2f-b49c9485e415" />
+<img width="1884" height="968" alt="Screenshot 2026-04-02 160103" src="https://github.com/user-attachments/assets/2cefaf61-47db-43b0-ad98-68123dda2298" />
+<img width="1882" height="860" alt="Screenshot 2026-04-02 160224" src="https://github.com/user-attachments/assets/7266150f-61f3-4c01-8d74-00919dad1055" />
 
 
 ## 🏁 Getting Started
